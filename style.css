@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 18px;
+    font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+}
+
+#container {
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header {
+    width: 100%;
+    background-image: url("space.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+#img {
+    width: 15%;
+    display: inline-block;
+}
+
+#menu {
+    display: inline-block;
+    width: 84%;
+    height: 50%;
+}
+
+.inline {
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+    font-size: 1.6rem;
+    border-right: 1px solid gray;
+}
+
+.inline1 {
+    display: inline-block;
+}
+
+#search {
+
+}
+
+#menu2 {
+    display: inline-block;
+    width: 84%;
+    height: 50%;
+}
+
+#body {
+    width: 100%;
+}
+
+.inline2 {
+    display: inline-block;
+    color: white;
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    background-color: gray;
+}
+
+.imgInline {
+    display: inline-block;
+    width: 50%;
+}
+
+#body {
+    background-color: black;
+}
+
+#img1 {
+    display: inline-block;
+    background-image: url("planet.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 617px;
+}
+
+#img2 {
+    display: inline-block;
+    width: 49%;
+    height: 617px;
+    border: 1px solid black;
+}
+
+#doute {
+    width: 100%;
+}
+
+#men {
+    background-image: url("men.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 320px;
+    display: inline-block;
+}
+
+#rays {
+    background-image: url("wallpaper_gamma_rays.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 49%;
+    height: 320px;
+    display: inline-block;
+}
+
+#img3 {
+    background-image: url("sun.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 320px;
+    display: inline-block;
+}
+
+#body2 {
+    width: 100%;
+}
+
+#img4 {
+    background-image: url("webspace.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 25%;
+    height: 320px;
+    display: inline-block;
+}
+
+#img5 {
+    background-image: url("ozone2021_2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 320px;
+    display: inline-block;
+}
+
+#img6 {
+    background-image: url("sarah_yearicks.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 24%;
+    height: 320px;
+    display: inline-block;
+}
+
+#body3 {
+    background-image: url("Capture.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 320px;
+}
